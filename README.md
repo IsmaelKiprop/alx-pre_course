@@ -1,1 +1,3 @@
-I love developing softwares
+I love developing softwares.
+
+Am yet to become a full stack engineer.
